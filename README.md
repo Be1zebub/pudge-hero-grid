@@ -11,3 +11,4 @@ put hero_grid_config.json in your `Steam\userdata\%your user-id%\570\remote\cfg`
 # Grid layout editor
 Run editor.lua in Garry's mod
 hold shift to make your brush bigger
+![Preview](https://github.com/Be1zebub/pudge-hero-grid/blob/master/editor.jpg?raw=true)
